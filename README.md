@@ -1,16 +1,16 @@
-## Hi there 👋
+Hi, I'm Faith Ndunge Maundu
 
-<!--
-**Faith-Analytics/Faith-Analytics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MSc Data Science Student (Ongoing, Expected 2028)
+BSc Mathematics (Statistics Option) - Kiriri Women's University
 
-Here are some ideas to get you started:
+Tools: Python (pandas, matplotlib) | R (dplyr, ggplot2) | SQL | SPSS | Excel | REDCap
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+What I do: Data Cleaning, Data Analysis, Data Visualization, Survey Data
+
+Experience: KNBS - Statistical Data | Kiriri University - Exam Data | Diesel Power - Sales Data
+
+Projects:
+- Student Performance Analysis in Python
+- Survey Data Visualization in R
+
+Ruiru, Kenya | faithndunge851@gmail.com
